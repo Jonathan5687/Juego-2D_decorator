@@ -1,2 +1,2 @@
-Jonathan Esteban Cruz Fuentes
-Cod: 20231020098
+## Integrantes:
+Jonathan Esteban Cruz Fuentes - 20231020098
